@@ -1,1 +1,2 @@
-# FakeNews-logisticRegression-decisionTree-
+# FakeNews-logisticRegression-decisionTree-RandomForest
+
